@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.DAL.deps.json
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.DAL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.DAL.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.BL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.Core.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.BL.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\bin\Debug\net8.0\Startup.Core.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup..B65F0C39.Up2Date
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\refint\Startup.DAL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\ref\Startup.DAL.dll

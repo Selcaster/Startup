@@ -1,0 +1,11 @@
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\bin\Debug\net8.0\Startup.Core.deps.json
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\bin\Debug\net8.0\Startup.Core.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\bin\Debug\net8.0\Startup.Core.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\refint\Startup.Core.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\Startup.Core.pdb
+C:\Users\classtime\source\repos\Startup.MVC\Startup.Core\obj\Debug\net8.0\ref\Startup.Core.dll
