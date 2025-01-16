@@ -5,6 +5,8 @@ using Startup.DAL.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Configuration;
+using Microsoft.AspNetCore.Identity;
+using Startup.MVC.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,8 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("mssql"));
 });
+
+builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<StartupMVCContext>();
 //builder.Services.AddDbContext<AppDbContext>(opt =>
 //    opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"),
 //        b => b.MigrationsAssembly("Startup.MVC")));
