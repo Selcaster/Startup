@@ -13,3 +13,4 @@ C:\Users\classtime\source\repos\Startup.MVC\Startup.BL\obj\Debug\net8.0\Startup.
 C:\Users\classtime\source\repos\Startup.MVC\Startup.BL\obj\Debug\net8.0\refint\Startup.BL.dll
 C:\Users\classtime\source\repos\Startup.MVC\Startup.BL\obj\Debug\net8.0\Startup.BL.pdb
 C:\Users\classtime\source\repos\Startup.MVC\Startup.BL\obj\Debug\net8.0\ref\Startup.BL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.BL\obj\Debug\net8.0\Startup.BL.sourcelink.json

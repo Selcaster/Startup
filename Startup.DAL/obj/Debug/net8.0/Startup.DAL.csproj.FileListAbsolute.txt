@@ -15,3 +15,4 @@ C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup
 C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\refint\Startup.DAL.dll
 C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.pdb
 C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\ref\Startup.DAL.dll
+C:\Users\classtime\source\repos\Startup.MVC\Startup.DAL\obj\Debug\net8.0\Startup.DAL.sourcelink.json

@@ -3,36 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\repositoryimplements\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\repositoryimplements\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\startup.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\startup.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\profiles\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\profiles\\clientprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\startup.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\startup.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,28 +131,8 @@
       "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\repositoryimplements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\repositoryimplements\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\repositoryimplements\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\repositoryimplements\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64BCAD33-AB00-4D73-A859-72B734FBC41C}|Startup.DAL\\Startup.DAL.csproj|solutionrelative:startup.dal\\repositoryimplements\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\viewmodels\\common\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -143,36 +175,12 @@
       "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\services\\clientservice\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83256227-946C-4721-AD62-2B4E6EA78A9D}|Startup.BL\\Startup.BL.csproj|solutionrelative:startup.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\startup.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\startup.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|c:\\users\\classtime\\source\\repos\\startup.mvc\\startup.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E8608166-A6B2-427C-9EC3-4074111D5B41}|Startup.MVC\\Startup.MVC.csproj|solutionrelative:startup.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -182,258 +190,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T06:31:05.614Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCEBAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T06:25:05.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T06:25:03.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T06:24:52.621Z",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Startup.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Program.cs",
+              "RelativeToolTip": "Startup.MVC\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:21:04.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "Startup.BL\\Profiles\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\CategoryProfile.cs",
-              "RelativeToolTip": "Startup.BL\\Profiles\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:52:25.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClientProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\ClientProfile.cs",
-              "RelativeDocumentMoniker": "Startup.BL\\Profiles\\ClientProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\ClientProfile.cs",
-              "RelativeToolTip": "Startup.BL\\Profiles\\ClientProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:54:27.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Startup.DAL",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Startup.DAL.csproj",
-              "RelativeDocumentMoniker": "Startup.DAL\\Startup.DAL.csproj",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Startup.DAL.csproj",
-              "RelativeToolTip": "Startup.DAL\\Startup.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T05:29:06.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Startup.DAL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\ServiceRegistration.cs",
-              "RelativeToolTip": "Startup.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:45:40.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "RelativeToolTip": "Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:51:33.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IBaseException.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\IBaseException.cs",
-              "RelativeDocumentMoniker": "Startup.BL\\Exceptions\\IBaseException.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\IBaseException.cs",
-              "RelativeToolTip": "Startup.BL\\Exceptions\\IBaseException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:51:45.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Client.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Client.cs",
-              "RelativeToolTip": "Startup.Core\\Entities\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:31:57.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Startup.Core\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:31:45.221Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Startup.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:32:11.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\Entities\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\AuditableEntity.cs",
-              "RelativeToolTip": "Startup.Core\\Entities\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:32:03.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:35:06.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
-              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:35:41.525Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:34:49.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClientConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\ClientConfiguration.cs",
-              "RelativeDocumentMoniker": "Startup.DAL\\Configuration\\ClientConfiguration.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\ClientConfiguration.cs",
-              "RelativeToolTip": "Startup.DAL\\Configuration\\ClientConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:44:05.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CategoryConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\CategoryConfiguration.cs",
-              "RelativeDocumentMoniker": "Startup.DAL\\Configuration\\CategoryConfiguration.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\CategoryConfiguration.cs",
-              "RelativeToolTip": "Startup.DAL\\Configuration\\CategoryConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:44:23.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Startup.DAL\\Context\\AppDbContext.cs",
@@ -446,20 +224,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
-              "RelativeToolTip": "Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Startup.BL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Startup.BL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:47:21.732Z",
+              "WhenOpened": "2025-01-16T06:05:07.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Startup.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "Startup.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:52:25.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Startup.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\appsettings.json",
+              "RelativeToolTip": "Startup.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T05:22:52.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:25:03.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAAB8BAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T05:25:18.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "Startup.DAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:45:40.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T05:25:30.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "RelativeToolTip": "Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:48:38.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\Client.cs",
               "RelativeDocumentMoniker": "Startup.DAL\\RepositoryImplements\\Client.cs",
@@ -472,46 +341,276 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "RelativeToolTip": "Startup.DAL\\RepositoryImplements\\GenericRepository.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAA8wAYAAAARAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "20250116090443_CreateCategoriesTable.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs",
+              "RelativeToolTip": "Startup.DAL\\Migrations\\20250116090443_CreateCategoriesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:48:38.764Z",
+              "WhenOpened": "2025-01-16T09:04:43.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "Startup.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Program.cs",
-              "RelativeToolTip": "Startup.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:21:04.367Z",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:31:05.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAkwEgBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:25:05.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250116085912_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs",
+              "RelativeToolTip": "Startup.DAL\\Migrations\\20250116085912_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:59:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Startup.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Startup.DAL.csproj",
+              "RelativeDocumentMoniker": "Startup.DAL\\Startup.DAL.csproj",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Startup.DAL.csproj",
+              "RelativeToolTip": "Startup.DAL\\Startup.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T05:29:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:25:03.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClientProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\ClientProfile.cs",
+              "RelativeDocumentMoniker": "Startup.BL\\Profiles\\ClientProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Profiles\\ClientProfile.cs",
+              "RelativeToolTip": "Startup.BL\\Profiles\\ClientProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:54:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Startup.MVC\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Startup.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:27:11.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T05:27:11.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Startup.MVC.csproj",
+              "RelativeDocumentMoniker": "Startup.MVC\\Startup.MVC.csproj",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Startup.MVC.csproj",
+              "RelativeToolTip": "Startup.MVC\\Startup.MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-16T05:26:47.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Startup.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Startup.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T06:24:52.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "RelativeToolTip": "Startup.BL\\Exceptions\\Common\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:51:33.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBaseException.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\IBaseException.cs",
+              "RelativeDocumentMoniker": "Startup.BL\\Exceptions\\IBaseException.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Exceptions\\IBaseException.cs",
+              "RelativeToolTip": "Startup.BL\\Exceptions\\IBaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:51:45.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Client.cs",
+              "RelativeToolTip": "Startup.Core\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:31:57.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Startup.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:31:45.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Startup.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:32:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\Entities\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\Entities\\AuditableEntity.cs",
+              "RelativeToolTip": "Startup.Core\\Entities\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:32:03.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:35:06.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
+              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:35:41.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "Startup.Core\\RepositoryInterfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:34:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClientConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\ClientConfiguration.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\Configuration\\ClientConfiguration.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\ClientConfiguration.cs",
+              "RelativeToolTip": "Startup.DAL\\Configuration\\ClientConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:44:05.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Startup.DAL\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:44:23.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
+              "RelativeToolTip": "Startup.DAL\\RepositoryImplements\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T05:47:21.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ViewModels\\Common\\HomeVM.cs",
               "RelativeDocumentMoniker": "Startup.BL\\ViewModels\\Common\\HomeVM.cs",
@@ -519,12 +618,11 @@
               "RelativeToolTip": "Startup.BL\\ViewModels\\Common\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:13:38.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:13:38.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "ClientGetVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ViewModels\\Client\\ClientGetVM.cs",
               "RelativeDocumentMoniker": "Startup.BL\\ViewModels\\Client\\ClientGetVM.cs",
@@ -532,12 +630,11 @@
               "RelativeToolTip": "Startup.BL\\ViewModels\\Client\\ClientGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:15:14.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:15:14.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "ClientCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ViewModels\\Client\\ClientCreateVM.cs",
               "RelativeDocumentMoniker": "Startup.BL\\ViewModels\\Client\\ClientCreateVM.cs",
@@ -545,12 +642,11 @@
               "RelativeToolTip": "Startup.BL\\ViewModels\\Client\\ClientCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:15:03.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:15:03.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "CategoryGetVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ViewModels\\Category\\CategoryGetVM.cs",
               "RelativeDocumentMoniker": "Startup.BL\\ViewModels\\Category\\CategoryGetVM.cs",
@@ -558,12 +654,11 @@
               "RelativeToolTip": "Startup.BL\\ViewModels\\Category\\CategoryGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:17:42.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:17:42.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "CategoryCreateVM.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
               "RelativeDocumentMoniker": "Startup.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
@@ -571,12 +666,11 @@
               "RelativeToolTip": "Startup.BL\\ViewModels\\Category\\CategoryCreateVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:16:59.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:16:59.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Services\\CategoryService\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Startup.BL\\Services\\CategoryService\\ICategoryService.cs",
@@ -584,25 +678,23 @@
               "RelativeToolTip": "Startup.BL\\Services\\CategoryService\\ICategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:56:25.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T05:56:25.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Startup.BL",
+              "DocumentIndex": 38,
+              "Title": "Startup.BL.csproj",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Startup.BL.csproj",
               "RelativeDocumentMoniker": "Startup.BL\\Startup.BL.csproj",
               "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Startup.BL.csproj",
               "RelativeToolTip": "Startup.BL\\Startup.BL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T06:03:55.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:03:55.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Services\\CategoryService\\CategoryService.cs",
               "RelativeDocumentMoniker": "Startup.BL\\Services\\CategoryService\\CategoryService.cs",
@@ -610,12 +702,11 @@
               "RelativeToolTip": "Startup.BL\\Services\\CategoryService\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:57:08.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T05:57:08.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "ClientService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Services\\ClientService\\ClientService.cs",
               "RelativeDocumentMoniker": "Startup.BL\\Services\\ClientService\\ClientService.cs",
@@ -623,12 +714,11 @@
               "RelativeToolTip": "Startup.BL\\Services\\ClientService\\ClientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:00:05.353Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:00:05.353Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "IClientService.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\Services\\ClientService\\IClientService.cs",
               "RelativeDocumentMoniker": "Startup.BL\\Services\\ClientService\\IClientService.cs",
@@ -636,51 +726,11 @@
               "RelativeToolTip": "Startup.BL\\Services\\ClientService\\IClientService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:03:09.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T06:03:09.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Startup.BL\\ServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.BL\\ServiceRegistration.cs",
-              "RelativeToolTip": "Startup.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T06:05:07.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Startup.MVC",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Startup.MVC.csproj",
-              "RelativeDocumentMoniker": "Startup.MVC\\Startup.MVC.csproj",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Startup.MVC.csproj",
-              "RelativeToolTip": "Startup.MVC\\Startup.MVC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-16T05:26:47.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T05:25:30.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -688,12 +738,11 @@
               "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T05:25:26.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T05:25:26.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 44,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -701,51 +750,7 @@
               "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T05:25:25.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAB8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T05:25:18.51Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Startup.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Startup.MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T05:25:03.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "Startup.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Startup.MVC\\Startup.MVC\\appsettings.json",
-              "RelativeToolTip": "Startup.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-16T05:22:52.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-01-16T05:25:25.181Z"
             }
           ]
         }

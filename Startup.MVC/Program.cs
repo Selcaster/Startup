@@ -3,13 +3,18 @@ using Startup.BL;
 using Startup.DAL;
 using Startup.DAL.Context;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("mssql"));
 });
+//builder.Services.AddDbContext<AppDbContext>(opt =>
+//    opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"),
+//        b => b.MigrationsAssembly("Startup.MVC")));
 
 builder.Services.AddControllersWithViews();
 builder.Services.AddService();

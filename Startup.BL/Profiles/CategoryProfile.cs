@@ -8,7 +8,7 @@ public class CategoryProfile : Profile
 {
     public CategoryProfile()
     {
-        CreateMap<CategoryCreateVM, Category>().ReverseMap();
-        CreateMap<CategoryGetVM, Category>().ReverseMap();
+        CreateMap<Category,CategoryCreateVM > ().ReverseMap();
+        CreateMap<Category, CategoryGetVM >().ReverseMap();
     }
 }
